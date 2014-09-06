@@ -32,4 +32,4 @@ See frequently asked questions on [Stackoverflow](http://stackoverflow.com/tags/
 
 [Chronicle support on Stackoverflow](http://stackoverflow.com/tags/chronicle/info)
 
-[Forum for those learning about OpenHFT](https://groups.google.com/forum/?hl=en-GB#!forum/open-hft)
+[Forum for those who are learning about OpenHFT](https://groups.google.com/forum/?hl=en-GB#!forum/open-hft)
